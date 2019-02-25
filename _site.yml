@@ -1,0 +1,21 @@
+name: "My Website"
+output_dir: "."
+navbar:
+  title: "My Website"
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "My Resume"
+      href: mycv.html
+  right:
+    - text: "Contact Me"
+      href: mailto:hisheart2018@gmail.com
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+      
+      
