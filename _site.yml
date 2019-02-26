@@ -1,21 +1,28 @@
-name: "My Website"
+name: "Meet Brianna Lawton"
 output_dir: "."
 navbar:
-  title: "My Website"
-  type: inverse
+  title: "Meet Brianna Lawton"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-    - text: "My Resume"
+    - text: "Resume"
       href: MyResume2019_Brianna.Lawton.pdf
+    - text: "My Go-to R Packages"
+      href: Rpackages.html
   right:
     - text: "Contact Me"
+      icon: fa-envelope fa-lg
       href: mailto:hisheart2018@gmail.com
+    - icon: fa-github fa-lg
+      href: http://github.com/brlaw17
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/briannalawton
 output:
   html_document:
     theme: cosmo
     highlight: textmate
+    css: 'styles.css'
       
       
