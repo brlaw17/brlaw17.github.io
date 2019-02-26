@@ -4,11 +4,17 @@ title: "My Homepage"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/professional_headshot.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/professional_headshot.jpg" align="left">
 
 
 Hello,
 
-Welcome to my first Simple RStudio Website. I did run into a few challenges 
+Welcome to my first Simple RStudio Website. I did run into a few minor but important challenges while building this website that I would like to share with you:
+1. X
+2. XX
+3. XXX
 
-*Things I Like To Do:
+*Activities I Enjoy:
+  + travel abraod
+  + write poetry
+  + work out
