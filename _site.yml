@@ -9,7 +9,7 @@ navbar:
       href: about.html
     - text: "Resume"
       href: MyResume2019_Brianna.Lawton.pdf
-    - text: "My Go-to R Packages"
+    - text: "Go-to R Packages"
       href: Rpackages.html
   right:
     - icon: fa-envelope fa-lg
