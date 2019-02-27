@@ -2,4 +2,27 @@
 title: "About"
 ---
 
-# About my website
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/professional_headshot.JPG" align="left">
+
+! [Alt text] (/lawto/Desktop/professional_headshot.JPG)
+
+Chao,
+
+My name is Brianna Lawton and I am a Civil Engineering, PhD student with a focus in Transportation Engineering and a minor in Community and Regional Planning at Iowa State University (ISU). I am originally from the Washington, D.C. Metropolitan area where I received my Bachelor’s of Science degree in Civil Engineering from Morgan State University (MSU), where I served as President and charter member of the first recorded historically black college and university (HBCU) chapter of Chi Epsilon, the national Civil Engineering Honor Society. I am an inducted member of Tau Beta Pi, the national Engineering Honor Society, where I served as outreach community service coordinator.
+
+As an undergraduate, I gained experience working for industry companies and organizations like HDR Inc. and First Transit, which spurred from my being a COMTO CITY intern. While at MSU, I also conducted geotechnical-transportation research and presented at the annual ASEE Conference, which gave me the self-confidence and inspiration to continue my educational career to earn a PhD.  
+
+Currently, I am working for the Iowa State University Institute of Transportation as a research assistant where I study methods of mitigating crash incidents along rural intersections by analyzing and implementing various safety countermeasures.
+
+Being an outgoing individual that I am, I am always eager to learn and assume more challenges that will help me grow in and outside the classroom by assuming positions like Vice President of ISU’s Transportation Student Association (TSA), serving as the Society of Women Engineers (SWE) graduate student liason, and taking the lead in her research group for certain projects.
+
+
+
+*Activities I Enjoy:
+  + travel abraod
+  + write poetry
+  + work out
+  + read books

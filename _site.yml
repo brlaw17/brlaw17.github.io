@@ -11,17 +11,18 @@ navbar:
       href: MyResume2019_Brianna.Lawton.pdf
     - text: "Go-to R Packages"
       href: Rpackages.html
+    - text: "Places I've Traveled"
+      href: traveler.html 
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:hisheart2018@gmail.com
+      href: mailto:brlaw17@iastate.edu
     - icon: fa-github fa-lg
       href: http://github.com/brlaw17
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/briannalawton
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: paper
     css: 'styles.css'
       
       

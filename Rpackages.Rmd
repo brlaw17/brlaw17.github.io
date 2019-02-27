@@ -5,20 +5,7 @@ title: "My Go-to R Packages"
 
 ## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+I would consider myself a novice R student. I began my R journey in Dr. Heike Hofmann's STAT 579 course and haven't looked back ever since. I would say some of my go-to packages that I have leared and enjoy that are quite helpful are the following:
+*tidyverse
+*tidyr
+*
