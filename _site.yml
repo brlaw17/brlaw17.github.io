@@ -1,7 +1,7 @@
-name: "Meet Brianna Lawton"
+name: "Brianna Lawton"
 output_dir: "."
 navbar:
-  title: "Meet Brianna Lawton"
+  title: "Brianna Lawton"
   left:
     - text: "Home"
       href: index.html
@@ -9,9 +9,9 @@ navbar:
       href: about.html
     - text: "Resume"
       href: MyResume2019_Brianna.Lawton.pdf
-    - text: "Go-to R Packages"
+    - text: "Go-To R Packages"
       href: Rpackages.html
-    - text: "Places I've Traveled"
+    - text: "Travel"
       href: traveler.html 
   right:
     - icon: fa-envelope fa-lg
