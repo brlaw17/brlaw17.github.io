@@ -7,7 +7,8 @@ title: "About"
 
 <img src="images/professional_headshot.JPG" align="left">
 
-! [Alt text] (/lawto/Desktop/professional_headshot.JPG)
+![](/headshot/professional_headshot.JPG)
+
 
 Chao,
 
