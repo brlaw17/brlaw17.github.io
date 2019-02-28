@@ -18,6 +18,4 @@ I would consider myself a novice R student. I began my R journey in Dr. Heike Ho
 #dplyr was another package I installed that is good for data manipulation and data analysis. The dplyr package was very helpful in selecting certain variables out of a bif dataset to run analysis against. It was also very helpful to summarise results produced after analyzing the data.
 ```
 
-Here is an example of how I used these packages in a team project I completed in STAT 579.
-
-[Travel Trends](stat579_project_TravelTrends.html)
+Here is an [example](stat579_project_TravelTrends.html) of how I used these packages in a team project I completed in STAT 579.
