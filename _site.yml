@@ -8,7 +8,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "Resume/CV"
-      href: MyResume2019_Brianna.Lawton.pdf
+      href: mycv.html 
     - text: "R Experience"
       href: Rpackages.html
     - text: "Travel"

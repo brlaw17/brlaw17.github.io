@@ -2,11 +2,14 @@
 title: "My Resume-CV"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<!--<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>-->			
 
 ## Brianna Lawton's Resume/CV
 
-The following is my current to-date resume.
+The following is my current to-date [Resume](MyResume2019_Brianna.Lawton.pdf)
 
-![My Resume](mycv.html)
+```{r}
+#mycv.html
+#MyResume2019_Brianna.Lawton.pdf
+```
 
