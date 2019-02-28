@@ -17,12 +17,8 @@ Currently, I am working for the Iowa State University [Institute of Transportati
 
 Being the engaged individual that I am, I am always eager to learn and assume more challenges that will help me grow in and outside the classroom by assuming positions like Vice President of ISU’s [Transportation Student Association](http://www.tsa.stuorg.iastate.edu/) (TSA), serving as the [Society of Women Engineers](https://isugradswe.weebly.com/) (SWE) graduate student liason, and taking the lead in my research group for projects.
 
-
-```{r}
-# **Hobbies I Enjoy:**
-### Traveling abroad
-### Writing poetry
-### Working out
-### Reading
-
-```
+## **Hobbies I Enjoy:**
+### *Traveling abroad*
+### *Writing poetry*
+### *Working out*
+### *Reading*

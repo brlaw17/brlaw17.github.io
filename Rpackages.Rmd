@@ -3,16 +3,18 @@ title: "My Go-to R Packages"
 
 ---
 
-## R Markdown
-
 I would consider myself a novice R student. I began my R journey in Dr. Heike Hofmann's STAT 579 course and haven't looked back ever since. I would say some of my go-to packages that I have leared and enjoy that are quite helpful are the following:
 
+## **tidyverse**
 ```{r}
-*tidyverse
 #tidyverse is a package that consists of other helpful packages used for data management and analysis, so when I was first learning R this was one of the first packages I installed.
-*ggplot2
+```
+## **gplot2**
+```{r}
 #ggplot2 was another package that I installed. This package is good for visual data analytics by way of various types of graphs (i.e. bar chart, histogram, line graph, point graph, etc.) along with aesthetics that go along with that. 
-*dplyr
+```
+## **dplyr**
+```{r}
 #dplyr was another package I installed that is good for data manipulation and data analysis. The dplyr package was very helpful in selecting certain variables out of a bif dataset to run analysis against. It was also very helpful to summarise results produced after analyzing the data.
 ```
 
