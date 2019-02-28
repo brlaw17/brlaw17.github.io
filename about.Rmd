@@ -19,10 +19,10 @@ Being the engaged individual that I am, I am always eager to learn and assume mo
 
 
 ```{r}
-### **Activities I Enjoy:**
-*travel abroad
-*write poetry
-*workout
-*read books
+# **Hobbies I Enjoy:**
+### Traveling abroad
+### Writing poetry
+### Working out
+### Reading
 
 ```
