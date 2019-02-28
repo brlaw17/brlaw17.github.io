@@ -8,3 +8,5 @@ title: "My Resume-CV"
 
 The following is my current to-date resume.
 
+![My Resume](mycv.html)
+

@@ -3,13 +3,13 @@ output_dir: "."
 navbar:
   title: "Brianna Lawton"
   left:
-    - text: "Home"
+    - text: "Welcome"
       href: index.html
-    - text: "About"
+    - text: "About Me"
       href: about.html
-    - text: "Resume"
+    - text: "Resume/CV"
       href: MyResume2019_Brianna.Lawton.pdf
-    - text: "Go-To R Packages"
+    - text: "R Experience"
       href: Rpackages.html
     - text: "Travel"
       href: traveler.html 
