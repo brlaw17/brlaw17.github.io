@@ -13,6 +13,8 @@ navbar:
       href: Rpackages.html
     - text: "Travel"
       href: traveler.html 
+    - text: "Image for Sticker"
+      href: leaning_tower_pisa.JPG
   right:
     - icon: fa-envelope fa-lg
       href: mailto:brlaw17@iastate.edu
